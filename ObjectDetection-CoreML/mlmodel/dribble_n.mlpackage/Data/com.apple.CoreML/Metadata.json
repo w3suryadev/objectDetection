@@ -1,0 +1,16 @@
+{
+  "MLModelVersionStringKey" : "8.0.162",
+  "MLModelDescriptionKey" : "Ultralytics dribble_n model trained on C:\\Users\\Gaurav Arora\\datasets\\dataset\\data.yaml",
+  "MLModelCreatorDefinedKey" : {
+    "stride" : "32",
+    "Confidence threshold" : "0.65",
+    "IoU threshold" : "0.25",
+    "task" : "detect",
+    "imgsz" : "[640, 640]",
+    "date" : "2023-08-25T11:32:36.191253",
+    "batch" : "1",
+    "names" : "{0: 'ball'}"
+  },
+  "MLModelAuthorKey" : "Ultralytics",
+  "MLModelLicenseKey" : "AGPL-3.0 https:\/\/ultralytics.com\/license"
+}
